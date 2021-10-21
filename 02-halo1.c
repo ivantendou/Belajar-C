@@ -17,4 +17,4 @@ main ()
   return 0;
 }
 /* return 0 menyatakan program ini mengirimkan atau mengembalikan ke Anda (return) sebuah nilai 0 jika semua baik-baik saja */
-/* kalalu program mengembalikan nilai selain 0, boleh jadi ada error */
+/* kalau program mengembalikan nilai selain 0, boleh jadi ada error */
