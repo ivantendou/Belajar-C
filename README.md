@@ -7,10 +7,11 @@ Saya menyukai bahasa pemrograman.
 Jadi, saya ingin belajar bahasa C.
 Ini adalah bahasa yang saya pelajari setelah bahasa C++.
 
-Hello, my name is Ivan.
+(Hello, my name is Ivan.
 I am from Bogor, Indonesia.
 I like programming language.
 So, i want to learn C programming language.
-This is programming language that i learn after C++ programming language.
+This is programming language that i learn after C++ programming language.)
 
-Thank you :)
+Terima kasih
+(Thank you)
