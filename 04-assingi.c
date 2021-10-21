@@ -1,4 +1,4 @@
-/* File : initvar.c */
+/* File : assingi.c */
 /* Penulis : Ivan, email ivantendou@gmail.com */
 /* Mengisi variabel i yang bertype int dengan nilai 5 dan menuliskannya */
 #include <stdio.h>
