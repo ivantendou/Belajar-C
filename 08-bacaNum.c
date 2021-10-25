@@ -12,6 +12,7 @@ int main ()
     /* Program */
     printf ("Contoh membaca dan menulis, ketik nilai integer: ");
     scanf ("%d", &a); /* membaca nilai a yang bertype integer perhatikan bahwa nama variabel ditulis dg &a */
+    // &a disebut address of a, atau data yang kita input diarahkan ke variabel a
     printf ("Nilai yang dibaca : %d \n", a);
     
     printf ("ketik nilai sebuah bilangan riil: ");
