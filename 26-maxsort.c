@@ -17,6 +17,8 @@ int main ()
         /* tentukan indeks mac, di mana Tab[max] bernilai maksimum */
         /* untuk indeks tabel i...10 */
         max = i;
+        
+        // pengulangan ini untuk membandingkan besar kecil nilai-nilai pada Tab
         for (k= i+1; k<10; k++) {
             if (Tab[k] > Tab[max]) {
                 max = k;
